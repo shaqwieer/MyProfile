@@ -14,7 +14,9 @@
 <a href="https://medium.com/@mohamedkhaledshaqwieer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@mohamedkhaledshaqwieer" height="30" width="40" /></a>
 </p>
 
-<a href="https://www.linkedin.com/in/shaqwieer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="@mohamedkhaledshaqwieer" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shaqwieer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg"  height="30" width="40" />
+LinkedIn
+</a>
 </p>
 
 
