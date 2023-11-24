@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohamed Shaqwieer</h1>
 <h3 align="center">An Ambitious Full Stack Developer with Huge passion To be Best</h3>
 
-- 🌱 I’m currently learning **Cleancode , Design Patterns , docker , prompt engineering**
+- 🌱 I’m currently learning  Design Patterns , docker , prompt engineering**
 
 - 👨‍💻 All of my projects are available at [In my repositories](In my repositories)
 
